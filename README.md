@@ -4,6 +4,7 @@ it provides Food ordering and delivery platform where customers can search and d
 
 ### The project currently hosted on Render
 Link: https://mealmover.onrender.com/
+#### This is hosted on Render free-tier and may take a few seconds to spin up!
 
 ## APP INFO
 
