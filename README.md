@@ -16,19 +16,19 @@ Edwin Matema
 ### Features
 include: login, orders management, restaurants managent, customers management, employees management, security, user roles (user ristriction levels), etc
 
-Resources & Tools include:
-MongoDB Atlas - Database
-JSON Web Tokens - Security service (access tokens and refresh tokens)
-Git and GitHub - Code version control, Store and Sharing code
-onRender - App Deployement and Hosting
-Reactjs - Frontend Framework
-Expressjs - Backend Framework
-Nodejs - Javascript Runtime Environment
-Javascript, JSX, HTML, CSS - Languages
-Chrome, FireFox - Browsers
-Redux - State Management
-RKT Query - Data fetching and Catching
-etc
+###Resources & Tools include:
+1. MongoDB Atlas - Database
+2. JSON Web Tokens - Security service (access tokens and refresh tokens)
+3. Git and GitHub - Code version control, Store and Sharing code
+4. onRender - App Deployement and Hosting
+5. Reactjs - Frontend Framework
+6. Expressjs - Backend Framework
+7. Nodejs - Javascript Runtime Environment
+8. Javascript, JSX, HTML, CSS - Languages
+9. Chrome, FireFox - Browsers
+10. Redux - State Management
+11. RKT Query - Data fetching and Catching
+12. etc
 
 ### MealMover: Home Page
 ![mealmover-1](https://github.com/user-attachments/assets/4dcf7077-e94d-4dbc-8403-26831bbde74f)
