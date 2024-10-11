@@ -16,7 +16,7 @@ Edwin Matema
 ### Features
 include: login, orders management, restaurants managent, customers management, employees management, security, user roles (user ristriction levels), etc
 
-###Resources & Tools include:
+### Resources & Tools include:
 1. MongoDB Atlas - Database
 2. JSON Web Tokens - Security service (access tokens and refresh tokens)
 3. Git and GitHub - Code version control, Store and Sharing code
